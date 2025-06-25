@@ -1,4 +1,4 @@
-# BoletimEscolar
+# BoletimEscolar ! build tbm deu errado, depois vou tentar arrumar os dois! 
 ---
 ## Descrição
 Este projeto simula um sistema de boletim escolar simples. O objetivo é cadastrar alunos com suas respectivas notas, calcular a média final e determinar se o aluno foi aprovado, reprovado ou está de recuperação.
