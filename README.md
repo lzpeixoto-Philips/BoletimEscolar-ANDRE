@@ -19,6 +19,8 @@ Este projeto simula um sistema de boletim escolar simples. O objetivo é cadastr
 
     Exibir os dados do aluno, suas notas, a média e a situação final.
 
+    Junto com isso também é importante salientar a necessidade da classe de teste para garantia de funcionamento do projeto.
+
 ## Exemplo de entrada de dados
     Nome: João Silva
     Nota 1: 6.0
